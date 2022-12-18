@@ -1,0 +1,75 @@
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД Магазина.csproj.AssemblyReference.cache
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД_Магазина.Grafic.resources
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД_Магазина.Main.resources
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД_Магазина.Product.resources
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД_Магазина.Properties.Resources.resources
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД_Магазина.Statistic.resources
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД_Магазина.Users.resources
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД Магазина.csproj.GenerateResource.cache
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД Магазина.csproj.CoreCompileInputs.cache
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\БД Магазина.exe.config
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\БД Магазина.exe
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\БД Магазина.pdb
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\Npgsql.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Buffers.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Memory.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Text.Json.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Threading.Channels.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.ValueTuple.dll
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\Npgsql.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Buffers.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Memory.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Text.Json.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Threading.Channels.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dodin\source\repos\БД Магазина\bin\Debug\System.ValueTuple.xml
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД Магазина.csproj.CopyComplete
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД Магазина.exe
+C:\Users\dodin\source\repos\БД Магазина\obj\Debug\БД Магазина.pdb
+C:\Практика\2\БД Магазина\bin\Debug\БД Магазина.exe.config
+C:\Практика\2\БД Магазина\bin\Debug\БД Магазина.exe
+C:\Практика\2\БД Магазина\bin\Debug\БД Магазина.pdb
+C:\Практика\2\БД Магазина\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Практика\2\БД Магазина\bin\Debug\Npgsql.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.Buffers.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.Memory.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.Numerics.Vectors.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.Text.Encodings.Web.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.Text.Json.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.Threading.Channels.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Практика\2\БД Магазина\bin\Debug\System.ValueTuple.dll
+C:\Практика\2\БД Магазина\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Практика\2\БД Магазина\bin\Debug\Npgsql.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.Buffers.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.Memory.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.Numerics.Vectors.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.Text.Encodings.Web.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.Text.Json.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.Threading.Channels.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Практика\2\БД Магазина\bin\Debug\System.ValueTuple.xml
+C:\Практика\2\БД Магазина\obj\Debug\БД Магазина.csproj.AssemblyReference.cache
+C:\Практика\2\БД Магазина\obj\Debug\БД_Магазина.Grafic.resources
+C:\Практика\2\БД Магазина\obj\Debug\БД_Магазина.Main.resources
+C:\Практика\2\БД Магазина\obj\Debug\БД_Магазина.Product.resources
+C:\Практика\2\БД Магазина\obj\Debug\БД_Магазина.Properties.Resources.resources
+C:\Практика\2\БД Магазина\obj\Debug\БД_Магазина.Statistic.resources
+C:\Практика\2\БД Магазина\obj\Debug\БД_Магазина.Users.resources
+C:\Практика\2\БД Магазина\obj\Debug\БД Магазина.csproj.GenerateResource.cache
+C:\Практика\2\БД Магазина\obj\Debug\БД Магазина.csproj.CoreCompileInputs.cache
+C:\Практика\2\БД Магазина\obj\Debug\БД Магазина.csproj.CopyComplete
+C:\Практика\2\БД Магазина\obj\Debug\БД Магазина.exe
+C:\Практика\2\БД Магазина\obj\Debug\БД Магазина.pdb
+C:\Практика\2\БД Магазина\obj\Debug\БД_Магазина.Pr_add.resources

@@ -1,0 +1,38 @@
+C:\Практика\2\БД Магазина\bin\Release\БД Магазина.exe.config
+C:\Практика\2\БД Магазина\bin\Release\БД Магазина.exe
+C:\Практика\2\БД Магазина\bin\Release\БД Магазина.pdb
+C:\Практика\2\БД Магазина\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Практика\2\БД Магазина\bin\Release\Npgsql.dll
+C:\Практика\2\БД Магазина\bin\Release\System.Buffers.dll
+C:\Практика\2\БД Магазина\bin\Release\System.Memory.dll
+C:\Практика\2\БД Магазина\bin\Release\System.Numerics.Vectors.dll
+C:\Практика\2\БД Магазина\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Практика\2\БД Магазина\bin\Release\System.Text.Encodings.Web.dll
+C:\Практика\2\БД Магазина\bin\Release\System.Text.Json.dll
+C:\Практика\2\БД Магазина\bin\Release\System.Threading.Channels.dll
+C:\Практика\2\БД Магазина\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Практика\2\БД Магазина\bin\Release\System.ValueTuple.dll
+C:\Практика\2\БД Магазина\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Практика\2\БД Магазина\bin\Release\Npgsql.xml
+C:\Практика\2\БД Магазина\bin\Release\System.Buffers.xml
+C:\Практика\2\БД Магазина\bin\Release\System.Memory.xml
+C:\Практика\2\БД Магазина\bin\Release\System.Numerics.Vectors.xml
+C:\Практика\2\БД Магазина\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Практика\2\БД Магазина\bin\Release\System.Text.Encodings.Web.xml
+C:\Практика\2\БД Магазина\bin\Release\System.Text.Json.xml
+C:\Практика\2\БД Магазина\bin\Release\System.Threading.Channels.xml
+C:\Практика\2\БД Магазина\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Практика\2\БД Магазина\bin\Release\System.ValueTuple.xml
+C:\Практика\2\БД Магазина\obj\Release\БД Магазина.csproj.AssemblyReference.cache
+C:\Практика\2\БД Магазина\obj\Release\БД_Магазина.Grafic.resources
+C:\Практика\2\БД Магазина\obj\Release\БД_Магазина.Main.resources
+C:\Практика\2\БД Магазина\obj\Release\БД_Магазина.Product.resources
+C:\Практика\2\БД Магазина\obj\Release\БД_Магазина.Properties.Resources.resources
+C:\Практика\2\БД Магазина\obj\Release\БД_Магазина.Statistic.resources
+C:\Практика\2\БД Магазина\obj\Release\БД_Магазина.Users.resources
+C:\Практика\2\БД Магазина\obj\Release\БД Магазина.csproj.GenerateResource.cache
+C:\Практика\2\БД Магазина\obj\Release\БД Магазина.csproj.CoreCompileInputs.cache
+C:\Практика\2\БД Магазина\obj\Release\БД Магазина.csproj.CopyComplete
+C:\Практика\2\БД Магазина\obj\Release\БД Магазина.exe
+C:\Практика\2\БД Магазина\obj\Release\БД Магазина.pdb
+C:\Практика\2\БД Магазина\obj\Release\БД_Магазина.Pr_add.resources
